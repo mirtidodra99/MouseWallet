@@ -1,0 +1,2 @@
+# MouseWallet
+New cryptocurrency wallet
